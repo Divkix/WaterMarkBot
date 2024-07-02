@@ -16,7 +16,7 @@ psutil = "^5.9.8"
 TgCrypto = "^1.2.5"
 cachetools = "^5.3.3"
 pymongo = "^4.7.3"
-Pillow = "^9.5.0"
+Pillow = "^10.4.0"
 prettyconf = "^2.2.1"
 pickledb-ujson = "^1.0.16"
 
