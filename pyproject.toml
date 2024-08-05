@@ -21,7 +21,7 @@ prettyconf = "^2.2.1"
 pickledb-ujson = "^1.0.16"
 
 [tool.poetry.dev-dependencies]
-black = "^23.12.1"
+black = "^24.8.0"
 isort = "^5.13.2"
 pre-commit = "^3.7.1"
 pyclean = "^2.7.6"
